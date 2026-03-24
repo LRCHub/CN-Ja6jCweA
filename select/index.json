@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Magic",
   "base_artist": "Mrs. GREEN APPLE",
-  "createdAt": "2025-12-04T16:10:14.743805Z",
+  "createdAt": "2026-03-24T15:51:33.186763Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -139,6 +139,15 @@
       "artist": "Mrs. GREEN APPLE",
       "has_synced": false,
       "path": "select/pl_01_Magic_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Magic",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/localdb_01_Magic_Mrs._GREEN_APPLE.txt",
+      "repo_name": "CN-Ja6jCweA"
     }
   ]
 }
